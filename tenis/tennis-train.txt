@@ -1,0 +1,6 @@
+# Tennis Data :
+Link : https://universe.roboflow.com/heatmap-vefzy/tennis-49ppo/dataset/3
+image size : 640
+số lượng ảnh : 171
+epochs : 100
+training time : 1h ( ít ảnh nhưng train lâu do model là x)
